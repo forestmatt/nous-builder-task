@@ -1,0 +1,27 @@
+{
+  "id": "hh_04",
+  "signedUpAt": "2026-10-09T21:30:00Z",
+  "source": "tiktok",
+  "firstName": "Sam",
+  "postcode": "BS3 4",
+  "householdSize": 2,
+  "billsMentioned": [
+    "broadband",
+    "energy"
+  ],
+  "connectedBank": true,
+  "whatsapp": [
+    {
+      "from": "nora",
+      "text": "Hey Sam! I'm Nora. What can I help with?"
+    },
+    {
+      "from": "member",
+      "text": "We just moved and set up all new bills. Want to check we got good deals"
+    },
+    {
+      "from": "nora",
+      "text": "Nice, congrats on the move. Connect your bank and I'll check every one."
+    }
+  ]
+}

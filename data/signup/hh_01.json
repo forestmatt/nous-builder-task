@@ -1,0 +1,36 @@
+{
+  "id": "hh_01",
+  "signedUpAt": "2026-10-02T19:41:00Z",
+  "source": "referral",
+  "firstName": "Chidi",
+  "postcode": "CR0 2",
+  "householdSize": 4,
+  "billsMentioned": [
+    "energy",
+    "broadband",
+    "car insurance"
+  ],
+  "connectedBank": true,
+  "whatsapp": [
+    {
+      "from": "nora",
+      "text": "Hi Chidi! I'm Nora from Nous. Which bills feel like the biggest drain right now?"
+    },
+    {
+      "from": "member",
+      "text": "Energy for sure, it's over £200 a month. And Virgin keeps going up"
+    },
+    {
+      "from": "nora",
+      "text": "Got it. Anything else coming up soon?"
+    },
+    {
+      "from": "member",
+      "text": "Car insurance renews this month I think"
+    },
+    {
+      "from": "nora",
+      "text": "If you connect your bank, I can see every bill and tell you where you're overpaying."
+    }
+  ]
+}

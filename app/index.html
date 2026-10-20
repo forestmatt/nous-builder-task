@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Connect your bank · Nous</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- The bank connection screen as it is today (see assets/bank-connect-today.png).
+       It's a starting point: change it, replace it, or ignore it. -->
+  <label class="picker">
+    Household
+    <select id="household"></select>
+  </label>
+
+  <main class="phone">
+    <section class="connect">
+      <h1>Make Nous smarter</h1>
+      <p class="lead">Nous keeps track of your bill payments, helps you cancel unwanted subscriptions, and alerts you to savings. All in one place.</p>
+
+      <div class="stack" aria-label="Example bills">
+        <div class="bill bill--back">
+          <span class="bill__logo" style="background: #1a73e8">p</span>
+          <span class="bill__name">Amazon Prime</span>
+          <span class="bill__amount">−£8.<small>99</small></span>
+        </div>
+        <div class="bill bill--middle">
+          <span class="bill__logo" style="background: #141414; color: #e50914">N</span>
+          <span class="bill__name">Netflix<small>Renews in 15 days</small></span>
+          <span class="bill__amount">−£12.<small>99</small></span>
+        </div>
+        <div class="bill bill--front">
+          <span class="bill__logo" style="background: #2c0b4a; color: #f07ff0">o</span>
+          <span class="bill__name">Octopus<small><i class="dot"></i>Savings detected</small></span>
+          <span class="bill__amount">−£150.<small>00</small></span>
+        </div>
+      </div>
+
+      <button class="button" type="button" id="connect">Connect bank account</button>
+      <a class="link" href="#">How does Open Banking work?</a>
+    </section>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,638 @@
+[
+  {
+    "pattern": "BRITISH GAS HOMECARE",
+    "merchant": "British Gas HomeCare",
+    "category": "boiler_cover",
+    "kind": "insurance"
+  },
+  {
+    "pattern": "EON NEXT BOILER",
+    "merchant": "E.ON Next Boiler Care",
+    "category": "boiler_cover",
+    "kind": "insurance"
+  },
+  {
+    "pattern": "BRITISH GAS",
+    "merchant": "British Gas",
+    "category": "energy",
+    "kind": "bill"
+  },
+  {
+    "pattern": "OCTOPUS ENERGY REFUND",
+    "merchant": "Octopus Energy",
+    "category": "energy",
+    "kind": "income"
+  },
+  {
+    "pattern": "OCTOPUS ENERGY",
+    "merchant": "Octopus Energy",
+    "category": "energy",
+    "kind": "bill"
+  },
+  {
+    "pattern": "EON NEXT",
+    "merchant": "E.ON Next",
+    "category": "energy",
+    "kind": "bill"
+  },
+  {
+    "pattern": "OVO ENERGY",
+    "merchant": "OVO Energy",
+    "category": "energy",
+    "kind": "bill"
+  },
+  {
+    "pattern": "EDF ENERGY FINAL",
+    "merchant": "EDF Energy",
+    "category": "energy",
+    "kind": "income"
+  },
+  {
+    "pattern": "EDF ENERGY",
+    "merchant": "EDF Energy",
+    "category": "energy",
+    "kind": "bill"
+  },
+  {
+    "pattern": "VIRGIN MEDIA",
+    "merchant": "Virgin Media",
+    "category": "broadband_tv",
+    "kind": "bill"
+  },
+  {
+    "pattern": "VODAFONE BROADBAND",
+    "merchant": "Vodafone",
+    "category": "broadband",
+    "kind": "bill"
+  },
+  {
+    "pattern": "HYPEROPTIC",
+    "merchant": "Hyperoptic",
+    "category": "broadband",
+    "kind": "bill"
+  },
+  {
+    "pattern": "SKY BROADBAND",
+    "merchant": "Sky",
+    "category": "broadband",
+    "kind": "bill"
+  },
+  {
+    "pattern": "COMMUNITY FIBRE",
+    "merchant": "Community Fibre",
+    "category": "broadband",
+    "kind": "bill"
+  },
+  {
+    "pattern": "BT GROUP",
+    "merchant": "BT",
+    "category": "landline_broadband",
+    "kind": "bill"
+  },
+  {
+    "pattern": "SKY DIGITAL",
+    "merchant": "Sky",
+    "category": "tv",
+    "kind": "bill"
+  },
+  {
+    "pattern": "EE LIMITED",
+    "merchant": "EE",
+    "category": "mobile",
+    "kind": "bill"
+  },
+  {
+    "pattern": "THREE MOBILE",
+    "merchant": "Three",
+    "category": "mobile",
+    "kind": "bill"
+  },
+  {
+    "pattern": "VODAFONE LTD",
+    "merchant": "Vodafone",
+    "category": "mobile",
+    "kind": "bill"
+  },
+  {
+    "pattern": "O2 UK",
+    "merchant": "O2",
+    "category": "mobile",
+    "kind": "bill"
+  },
+  {
+    "pattern": "GIFFGAFF",
+    "merchant": "giffgaff",
+    "category": "mobile",
+    "kind": "bill"
+  },
+  {
+    "pattern": "SMARTY",
+    "merchant": "SMARTY",
+    "category": "mobile",
+    "kind": "bill"
+  },
+  {
+    "pattern": "SPOTIFY",
+    "merchant": "Spotify",
+    "category": "music",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "NETFLIX",
+    "merchant": "Netflix",
+    "category": "streaming",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "DISNEY PLUS",
+    "merchant": "Disney+",
+    "category": "streaming",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "AMAZON PRIME",
+    "merchant": "Amazon Prime",
+    "category": "streaming",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "THE TIMES",
+    "merchant": "The Times",
+    "category": "news",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "HEADSPACE",
+    "merchant": "Headspace",
+    "category": "wellbeing",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "PUREGYM",
+    "merchant": "PureGym",
+    "category": "fitness",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "CLASSPASS",
+    "merchant": "ClassPass",
+    "category": "fitness",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "THE GYM GROUP",
+    "merchant": "The Gym Group",
+    "category": "fitness",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "ADOBE",
+    "merchant": "Adobe",
+    "category": "software",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "FIGMA",
+    "merchant": "Figma",
+    "category": "software",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "GITHUB",
+    "merchant": "GitHub",
+    "category": "software",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "NOTION",
+    "merchant": "Notion",
+    "category": "software",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "DROPBOX",
+    "merchant": "Dropbox",
+    "category": "cloud_storage",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "GOOGLE ONE",
+    "merchant": "Google One",
+    "category": "cloud_storage",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "APPLE.COM/BILL ICLOUD",
+    "merchant": "Apple iCloud",
+    "category": "cloud_storage",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "APPLE.COM/BILL",
+    "merchant": "Apple",
+    "category": "shopping",
+    "kind": "spend"
+  },
+  {
+    "pattern": "HELLOFRESH",
+    "merchant": "HelloFresh",
+    "category": "groceries",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "CTAX",
+    "merchant": "Council tax",
+    "category": "council_tax",
+    "kind": "bill"
+  },
+  {
+    "pattern": "CNCL CT",
+    "merchant": "Council tax",
+    "category": "council_tax",
+    "kind": "bill"
+  },
+  {
+    "pattern": "COUNCIL CT",
+    "merchant": "Council tax",
+    "category": "council_tax",
+    "kind": "bill"
+  },
+  {
+    "pattern": "THAMES WATER",
+    "merchant": "Thames Water",
+    "category": "water",
+    "kind": "bill"
+  },
+  {
+    "pattern": "YORKSHIRE WATER",
+    "merchant": "Yorkshire Water",
+    "category": "water",
+    "kind": "bill"
+  },
+  {
+    "pattern": "BRISTOL WATER",
+    "merchant": "Bristol Water",
+    "category": "water",
+    "kind": "bill"
+  },
+  {
+    "pattern": "UNITED UTILITIES",
+    "merchant": "United Utilities",
+    "category": "water",
+    "kind": "bill"
+  },
+  {
+    "pattern": "ANGLIAN WATER",
+    "merchant": "Anglian Water",
+    "category": "water",
+    "kind": "bill"
+  },
+  {
+    "pattern": "TV LICENCE",
+    "merchant": "TV Licensing",
+    "category": "tv_licence",
+    "kind": "bill"
+  },
+  {
+    "pattern": "ADMIRAL",
+    "merchant": "Admiral",
+    "category": "car_insurance",
+    "kind": "insurance"
+  },
+  {
+    "pattern": "LV INSURANCE MOTOR",
+    "merchant": "LV=",
+    "category": "car_insurance",
+    "kind": "insurance"
+  },
+  {
+    "pattern": "DIRECT LINE CAR",
+    "merchant": "Direct Line",
+    "category": "car_insurance",
+    "kind": "insurance"
+  },
+  {
+    "pattern": "AVIVA HOME",
+    "merchant": "Aviva",
+    "category": "home_insurance",
+    "kind": "insurance"
+  },
+  {
+    "pattern": "SAGA HOME",
+    "merchant": "Saga",
+    "category": "home_insurance",
+    "kind": "insurance"
+  },
+  {
+    "pattern": "LV HOME",
+    "merchant": "LV=",
+    "category": "home_insurance",
+    "kind": "insurance"
+  },
+  {
+    "pattern": "MORTGAGE",
+    "merchant": "Mortgage",
+    "category": "mortgage",
+    "kind": "bill"
+  },
+  {
+    "pattern": "DEPOSIT",
+    "merchant": "Deposit",
+    "category": "rent",
+    "kind": "transfer"
+  },
+  {
+    "pattern": "CLIFTON LETTINGS",
+    "merchant": "Clifton Lettings",
+    "category": "rent",
+    "kind": "bill"
+  },
+  {
+    "pattern": "BEDMINSTER HOMES",
+    "merchant": "Bedminster Homes",
+    "category": "rent",
+    "kind": "bill"
+  },
+  {
+    "pattern": "RENT",
+    "merchant": "Rent",
+    "category": "rent",
+    "kind": "bill"
+  },
+  {
+    "pattern": "TRANSFER TO SAVINGS",
+    "merchant": "Savings",
+    "category": "savings",
+    "kind": "transfer"
+  },
+  {
+    "pattern": "FLAT BILLS",
+    "merchant": "Flatmate paying back",
+    "category": "bill_share",
+    "kind": "transfer"
+  },
+  {
+    "pattern": "SALARY",
+    "merchant": "Salary",
+    "category": "salary",
+    "kind": "income"
+  },
+  {
+    "pattern": "HARBOUR LOGISTICS",
+    "merchant": "Salary",
+    "category": "salary",
+    "kind": "income"
+  },
+  {
+    "pattern": "BRIGHTWAVE MEDIA",
+    "merchant": "Salary",
+    "category": "salary",
+    "kind": "income"
+  },
+  {
+    "pattern": "AVON NHS TRUST",
+    "merchant": "Salary",
+    "category": "salary",
+    "kind": "income"
+  },
+  {
+    "pattern": "DWP SP",
+    "merchant": "State pension",
+    "category": "pension",
+    "kind": "income"
+  },
+  {
+    "pattern": "PENSION ANNUITY",
+    "merchant": "Private pension",
+    "category": "pension",
+    "kind": "income"
+  },
+  {
+    "pattern": "INV-",
+    "merchant": "Client payment",
+    "category": "freelance",
+    "kind": "income"
+  },
+  {
+    "pattern": "HMRC",
+    "merchant": "HMRC",
+    "category": "tax",
+    "kind": "bill"
+  },
+  {
+    "pattern": "OVERDRAFT",
+    "merchant": "Overdraft",
+    "category": "bank_fees",
+    "kind": "fee"
+  },
+  {
+    "pattern": "KLARNA",
+    "merchant": "Klarna",
+    "category": "buy_now_pay_later",
+    "kind": "debt"
+  },
+  {
+    "pattern": "VANQUIS",
+    "merchant": "Vanquis",
+    "category": "credit_card",
+    "kind": "debt"
+  },
+  {
+    "pattern": "BARCLAYCARD",
+    "merchant": "Barclaycard",
+    "category": "credit_card",
+    "kind": "debt"
+  },
+  {
+    "pattern": "RNLI",
+    "merchant": "RNLI",
+    "category": "charity",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "MACMILLAN",
+    "merchant": "Macmillan",
+    "category": "charity",
+    "kind": "subscription"
+  },
+  {
+    "pattern": "ROBLOX",
+    "merchant": "Roblox",
+    "category": "gaming",
+    "kind": "spend"
+  },
+  {
+    "pattern": "TESCO",
+    "merchant": "Tesco",
+    "category": "groceries",
+    "kind": "spend"
+  },
+  {
+    "pattern": "SAINSBURYS",
+    "merchant": "Sainsbury's",
+    "category": "groceries",
+    "kind": "spend"
+  },
+  {
+    "pattern": "LIDL",
+    "merchant": "Lidl",
+    "category": "groceries",
+    "kind": "spend"
+  },
+  {
+    "pattern": "ALDI",
+    "merchant": "Aldi",
+    "category": "groceries",
+    "kind": "spend"
+  },
+  {
+    "pattern": "MORRISONS",
+    "merchant": "Morrisons",
+    "category": "groceries",
+    "kind": "spend"
+  },
+  {
+    "pattern": "CO-OP",
+    "merchant": "Co-op",
+    "category": "groceries",
+    "kind": "spend"
+  },
+  {
+    "pattern": "M&S",
+    "merchant": "M&S",
+    "category": "groceries",
+    "kind": "spend"
+  },
+  {
+    "pattern": "MARKS&SPENCER",
+    "merchant": "M&S",
+    "category": "groceries",
+    "kind": "spend"
+  },
+  {
+    "pattern": "TFL",
+    "merchant": "TfL",
+    "category": "transport",
+    "kind": "spend"
+  },
+  {
+    "pattern": "DELIVEROO",
+    "merchant": "Deliveroo",
+    "category": "eating_out",
+    "kind": "spend"
+  },
+  {
+    "pattern": "UBER EATS",
+    "merchant": "Uber Eats",
+    "category": "eating_out",
+    "kind": "spend"
+  },
+  {
+    "pattern": "UBER",
+    "merchant": "Uber",
+    "category": "transport",
+    "kind": "spend"
+  },
+  {
+    "pattern": "PRET A MANGER",
+    "merchant": "Pret",
+    "category": "eating_out",
+    "kind": "spend"
+  },
+  {
+    "pattern": "GREGGS",
+    "merchant": "Greggs",
+    "category": "eating_out",
+    "kind": "spend"
+  },
+  {
+    "pattern": "NANDOS",
+    "merchant": "Nando's",
+    "category": "eating_out",
+    "kind": "spend"
+  },
+  {
+    "pattern": "FIRST BUS",
+    "merchant": "First Bus",
+    "category": "transport",
+    "kind": "spend"
+  },
+  {
+    "pattern": "BEE NETWORK",
+    "merchant": "Bee Network",
+    "category": "transport",
+    "kind": "spend"
+  },
+  {
+    "pattern": "KONECT BUS",
+    "merchant": "Konect",
+    "category": "transport",
+    "kind": "spend"
+  },
+  {
+    "pattern": "TRAINLINE",
+    "merchant": "Trainline",
+    "category": "transport",
+    "kind": "spend"
+  },
+  {
+    "pattern": "GWR",
+    "merchant": "GWR",
+    "category": "transport",
+    "kind": "spend"
+  },
+  {
+    "pattern": "SHELL",
+    "merchant": "Shell",
+    "category": "fuel",
+    "kind": "spend"
+  },
+  {
+    "pattern": "ESSO",
+    "merchant": "Esso",
+    "category": "fuel",
+    "kind": "spend"
+  },
+  {
+    "pattern": "BP ",
+    "merchant": "BP",
+    "category": "fuel",
+    "kind": "spend"
+  },
+  {
+    "pattern": "IKEA",
+    "merchant": "IKEA",
+    "category": "home",
+    "kind": "spend"
+  },
+  {
+    "pattern": "DUNELM",
+    "merchant": "Dunelm",
+    "category": "home",
+    "kind": "spend"
+  },
+  {
+    "pattern": "B&Q",
+    "merchant": "B&Q",
+    "category": "home",
+    "kind": "spend"
+  },
+  {
+    "pattern": "ARGOS",
+    "merchant": "Argos",
+    "category": "shopping",
+    "kind": "spend"
+  },
+  {
+    "pattern": "ASOS",
+    "merchant": "ASOS",
+    "category": "shopping",
+    "kind": "spend"
+  },
+  {
+    "pattern": "AMAZON.CO.UK",
+    "merchant": "Amazon",
+    "category": "shopping",
+    "kind": "spend"
+  }
+]

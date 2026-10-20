@@ -1,0 +1,23 @@
+{
+  "note": "Illustrative monthly prices for a good deal in October 2026, in pounds. Not live quotes. Energy is a fixed tariff paid by direct debit, by number of people.",
+  "monthly": {
+    "energy": {
+      "1": 72,
+      "2": 104,
+      "3": 126,
+      "4": 152,
+      "5": 175
+    },
+    "broadband": 27,
+    "broadband_tv": 45,
+    "landline_broadband": 32,
+    "mobile": 10,
+    "tv": 35,
+    "boiler_cover": 17,
+    "car_insurance": 48,
+    "home_insurance": 19,
+    "music": 12.99,
+    "music_family": 21.99,
+    "cloud_storage": 2.99
+  }
+}

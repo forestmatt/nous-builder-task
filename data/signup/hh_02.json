@@ -1,0 +1,30 @@
+{
+  "id": "hh_02",
+  "signedUpAt": "2026-10-05T08:12:00Z",
+  "source": "instagram",
+  "firstName": "Priya",
+  "postcode": "E8 3",
+  "householdSize": 3,
+  "billsMentioned": [
+    "subscriptions"
+  ],
+  "connectedBank": true,
+  "whatsapp": [
+    {
+      "from": "nora",
+      "text": "Hi Priya, I'm Nora. What would you like help with first?"
+    },
+    {
+      "from": "member",
+      "text": "honestly no idea what I'm subscribed to anymore lol"
+    },
+    {
+      "from": "nora",
+      "text": "That's a really common one. Connect your bank and I'll find every subscription for you."
+    },
+    {
+      "from": "member",
+      "text": "is it safe tho"
+    }
+  ]
+}

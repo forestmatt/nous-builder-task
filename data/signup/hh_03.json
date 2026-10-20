@@ -1,0 +1,32 @@
+{
+  "id": "hh_03",
+  "signedUpAt": "2026-10-07T10:03:00Z",
+  "source": "press",
+  "firstName": "Pat",
+  "postcode": "LS16 6",
+  "householdSize": 2,
+  "billsMentioned": [
+    "energy",
+    "phone",
+    "TV"
+  ],
+  "connectedBank": true,
+  "whatsapp": [
+    {
+      "from": "nora",
+      "text": "Hello Pat, I'm Nora from Nous. How can I help?"
+    },
+    {
+      "from": "member",
+      "text": "Good morning. I read about you in the paper. We have been with BT for years and I think we pay too much."
+    },
+    {
+      "from": "nora",
+      "text": "That happens a lot when a contract ends. Shall I take a look at all your bills?"
+    },
+    {
+      "from": "member",
+      "text": "My son says I should not give my bank details to anyone."
+    }
+  ]
+}

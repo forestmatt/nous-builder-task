@@ -1,0 +1,30 @@
+{
+  "id": "hh_05",
+  "signedUpAt": "2026-10-11T14:55:00Z",
+  "source": "google",
+  "firstName": "Dan",
+  "postcode": "M4 6",
+  "householdSize": 1,
+  "billsMentioned": [
+    "mobile"
+  ],
+  "connectedBank": true,
+  "whatsapp": [
+    {
+      "from": "nora",
+      "text": "Hi Dan, I'm Nora. What brings you to Nous?"
+    },
+    {
+      "from": "member",
+      "text": "Pretty sure my phone contract ended ages ago"
+    },
+    {
+      "from": "nora",
+      "text": "If it has, you could be paying for a phone you already own. Want me to check everything at once?"
+    },
+    {
+      "from": "member",
+      "text": "sure, what do you need"
+    }
+  ]
+}

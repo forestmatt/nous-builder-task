@@ -1,0 +1,29 @@
+{
+  "id": "hh_06",
+  "signedUpAt": "2026-10-12T20:18:00Z",
+  "source": "referral",
+  "firstName": "Hannah",
+  "postcode": "NR2 3",
+  "householdSize": 3,
+  "billsMentioned": [
+    "energy",
+    "broadband",
+    "mobile",
+    "insurance"
+  ],
+  "connectedBank": true,
+  "whatsapp": [
+    {
+      "from": "nora",
+      "text": "Hi Hannah, I'm Nora. Your friend Jo said you might like a hand with bills."
+    },
+    {
+      "from": "member",
+      "text": "Ha, I'm pretty on top of it, I switch everything every year. Curious what you'd find though"
+    },
+    {
+      "from": "nora",
+      "text": "Let's see. Connect your bank and I'll check every bill against the market."
+    }
+  ]
+}
